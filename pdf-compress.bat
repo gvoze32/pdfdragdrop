@@ -1,0 +1,1 @@
+"exec/pdf-compress.bat" %1 "../bin/gswin64c.exe"

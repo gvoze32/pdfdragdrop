@@ -1,0 +1,1 @@
+"exec/pdf-rotate.bat" %1 "../bin/pdftk.exe"
