@@ -1,0 +1,1 @@
+"exec/pdf-merge-gs.bat" %1 %2 "../bin/gswin64c.exe"

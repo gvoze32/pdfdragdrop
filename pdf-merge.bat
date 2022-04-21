@@ -1,0 +1,1 @@
+"exec/pdf-merge.bat" %1 %2 "../bin/pdftk.exe"
