@@ -1,1 +1,0 @@
-"exec/pdf-split.bat" %1 "../bin/pdftk.exe"

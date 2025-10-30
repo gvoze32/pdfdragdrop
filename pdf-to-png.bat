@@ -1,1 +1,0 @@
-"exec/pdf-to-png.bat" %1 "../bin/gswin64c.exe"
